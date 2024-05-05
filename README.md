@@ -117,3 +117,6 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+## Result
+Thus,Implement A* search algorithm for a Graph was executed successfully.
